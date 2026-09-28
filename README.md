@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 align="center">Merhaba, Ben Emre 👋</h1>
+  <h1 align="center">Merhaba, Ben Emre </h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Java+%7C+Go+%7C+C%23+%7C+PostgreSQL;Backend+%26+Masa%C3%BCst%C3%BC+Uygulama;Blender+3D+Modelleme+%26+A%C3%A7%C4%B1k+Kaynak" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Java+%26+Golang+Backend+Geli%C5%9Ftirici;API+Tasar%C4%B1m%C4%B1+%26+Da%C4%9F%C4%B1t%C4%B1k+Sistemler;Blender+3D+%26+A%C3%A7%C4%B1k+Kaynak" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -22,26 +22,26 @@
 
 ---
 
-### 👨‍💻 Hakkımda
+###  Hakkımda
 
-- 🎓 **Erzurum Teknik Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim (2023 - Günümüz).
-- ⚙️ Ağırlıklı olarak **Java**, **Go** ve **C#** ile backend, sistem ve masaüstü yazılımları üzerine çalışıyorum.
-- 🎨 Yazılım geliştirmeye ek olarak **Blender** ile 3D modelleme yapıyorum.
-- 🌐 Açık kaynak projelere katkıda bulunmayı ve modern teknolojileri keşfetmeyi seviyorum.
+-  **Erzurum Teknik Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim (2023 - Günümüz).
+-  Ağırlıklı olarak Java ve Golang ile backend geliştirme, API tasarımı, mikroservisler ve dağıtık sistemler üzerine çalışıyorum.
+-  Yazılım geliştirmeye ek olarak **Blender** ile 3D modelleme yapıyorum.
+-  Açık kaynak projelere katkıda bulunmayı ve modern teknolojileri keşfetmeyi seviyorum.
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+###  Teknolojiler & Araçlar
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,cs,postgres,git,github,vscode,blender,linux&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=java,go,postgres,git,github,blender&theme=light" alt="Tech Stack" />
   </a>
 </div>
 
 ---
 
-### 📊 GitHub İstatistikleri
+###  GitHub İstatistikleri
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=emrelab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
