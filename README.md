@@ -1,12 +1,5 @@
 <div align="center">
   <h1 align="center">Merhaba, Ben Emre </h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Java+%26+Golang+Backend+Geli%C5%9Ftirici;API+Tasar%C4%B1m%C4%B1+%26+Da%C4%9F%C4%B1t%C4%B1k+Sistemler;Blender+3D+%26+A%C3%A7%C4%B1k+Kaynak" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
   <a href="https://linkedin.com/in/emre884k/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -24,7 +17,7 @@
 
 ###  Hakkımda
 
--  **Erzurum Teknik Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim (2023 - Günümüz).
+-  **Erzurum Teknik Üniversitesi** Bilgisayar Mühendisliği öğrencisiyim (2023 - 202X).
 -  Ağırlıklı olarak Java ve Golang ile backend geliştirme, API tasarımı, mikroservisler ve dağıtık sistemler üzerine çalışıyorum.
 -  Yazılım geliştirmeye ek olarak **Blender** ile 3D modelleme yapıyorum.
 -  Açık kaynak projelere katkıda bulunmayı ve modern teknolojileri keşfetmeyi seviyorum.
