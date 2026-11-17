@@ -24,6 +24,16 @@
 
 ---
 
+###  Öne Çıkan Proje
+
+**[go-flake-hunter](https://github.com/emrelab/go-flake-hunter)** — Go testlerindeki flaky hataları (sıra, paralellik, tekrar bağımlılığı) en küçük `polluter → victim` tanığına indirger ve repoda kalıcı bir regresyon testi bırakır. Bağımlılıksız, Apache-2.0, GitHub Action olarak da çalışır.
+
+- Bulduğu düzeltmeler upstream'de merge edildi: [tailscale/tailscale#22408](https://github.com/tailscale/tailscale/pull/22408) ve [#22427](https://github.com/tailscale/tailscale/pull/22427) (Brad Fitzpatrick onayıyla), [Jamf-Concepts/jamf-cli#474](https://github.com/Jamf-Concepts/jamf-cli/pull/474).
+- Sekiz gerçek upstream flake vakası tek tek tanıklarla belgelendi: [docs/real-world](https://github.com/emrelab/go-flake-hunter/blob/main/docs/real-world/README.md)
+- Yazı: [1736 testten tek polluter'a](https://emrelab.github.io/go-flake-hunter/writing/shrinking-1873-suspects-to-one-polluter.html)
+
+---
+
 ###  Teknolojiler & Araçlar
 
 <div align="center">
